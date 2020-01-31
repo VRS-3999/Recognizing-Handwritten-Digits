@@ -1,0 +1,3 @@
+1> image-1.5.27
+2> pip install -q git+https://github.com/tensorflow/examples.git
+    cp -a tensorflow/examples/ /usr/local/lib/python3.7/site-packages/tensorflow_core/examples/
